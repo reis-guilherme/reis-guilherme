@@ -37,7 +37,4 @@ Thank you for visiting my profile and I hope you find something useful here for 
 
   ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffvechio&show_icons=true&theme=radical)
-
-
-![Snake animation](https://github.com/ffvechio/ffvechio/blob/output/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reis-guilherme&show_icons=true&theme=radical)
