@@ -10,7 +10,7 @@ Thank you for visiting my profile and I hope you find something useful here for 
 
 ## Some of the technologies I use:
 <div style="display: inline_block">
-  <img align="center" alt="Guilherme-Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-14.svg"><br><br>
+  <img align="center" alt="Guilherme-Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-14.svg">
   <img align="center" alt="Guilherme-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"> 
   <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -23,8 +23,8 @@ Thank you for visiting my profile and I hope you find something useful here for 
   <img align="center" alt="Guilherme-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Guilherme-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Guilherme-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Guilherme-Github-Actions" height="30" width="40" src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg">
-  <img align="center" alt="Guilherme-Github-Azure" height="30" width="40" src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg">
+  <img align="center" alt="Guilherme-Github-Actions" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg">
+  <img align="center" alt="Guilherme-Github-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg">
 </div>
 
  ## Social networks:
